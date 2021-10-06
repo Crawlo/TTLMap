@@ -1,0 +1,25 @@
+{
+  "name": "@crawlo/ttlmap",
+  "version": "1.0.1",
+  "description": "Map with TTL",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crawlo/TTLMap.git"
+  },
+  "keywords": [
+    "map",
+    "ttl",
+    "oudy",
+    "works"
+  ],
+  "author": "Crawlo <hello@crawlo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crawlo/TTLMap/issues"
+  },
+  "homepage": "https://github.com/Crawlo/TTLMap#readme",
+  "dependencies": {
+    "lodash.throttle": "^4.1.1"
+  }
+}
