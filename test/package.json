@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "main": "script.js",
+  "dependencies": {
+    "@babel/cli": "^7.7.0",
+    "@crawlo/ttlmap": "^1.0.7",
+    "amqplib": "^0.5.3",
+    "bluebird": "^3.5.5",
+    "dataloader": "^1.4.0",
+    "elasticsearch": "^15.1.1",
+    "memory-fs": "^0.4.1",
+    "mongodb": "^3.2.7",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "babel-jest": "^24.8.0",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
